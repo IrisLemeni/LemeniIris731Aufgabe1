@@ -1,0 +1,212 @@
+<logs>
+   <log>
+      <Datum>2016-06-26</Datum>
+      <Ereignis>Sieg in der Schlacht der Bastarde</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>1</Id>
+      <Mitgliedsname>Jon Snow</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2016-12-11</Datum>
+      <Ereignis>Krönung zur Königin</Ereignis>
+      <Haus>Lannister</Haus>
+      <Id>2</Id>
+      <Mitgliedsname>Cersei Lannister</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2017-04-17</Datum>
+      <Ereignis>Eroberung von Drachenstein</Ereignis>
+      <Haus>Targaryen</Haus>
+      <Id>3</Id>
+      <Mitgliedsname>Daenerys Targaryen</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2011-09-01</Datum>
+      <Ereignis>Krönung zum König des Nordens</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>4</Id>
+      <Mitgliedsname>Robb Stark</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2014-05-15</Datum>
+      <Ereignis>Verurteilung durch den Vater</Ereignis>
+      <Haus>Lannister</Haus>
+      <Id>5</Id>
+      <Mitgliedsname>Tyrion Lannister</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2015-04-12</Datum>
+      <Ereignis>Flucht aus Riverrun</Ereignis>
+      <Haus>Lannister</Haus>
+      <Id>6</Id>
+      <Mitgliedsname>Jaime Lannister</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2016-05-23</Datum>
+      <Ereignis>Flucht von den Bolton</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>7</Id>
+      <Mitgliedsname>Sansa Stark</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2013-11-17</Datum>
+      <Ereignis>Erster Kontakt mit dem Dreiäugigen Raben</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>8</Id>
+      <Mitgliedsname>Bran Stark</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2014-08-21</Datum>
+      <Ereignis>Flucht nach Essos</Ereignis>
+      <Haus>Targaryen</Haus>
+      <Id>9</Id>
+      <Mitgliedsname>Jorah Mormont</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2015-06-21</Datum>
+      <Ereignis>Verlust von Winterfell</Ereignis>
+      <Haus>Baratheon</Haus>
+      <Id>10</Id>
+      <Mitgliedsname>Stannis Baratheon</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2011-05-02</Datum>
+      <Ereignis>Eroberung von Essos</Ereignis>
+      <Haus>Targaryen</Haus>
+      <Id>11</Id>
+      <Mitgliedsname>Viserys Targaryen</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2015-07-06</Datum>
+      <Ereignis>Vergeltung für die Bruderschaft ohne Banner</Ereignis>
+      <Haus>Greyjoy</Haus>
+      <Id>12</Id>
+      <Mitgliedsname>Sandor Clegane</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2013-03-03</Datum>
+      <Ereignis>Heirat mit Talisa Maegyr</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>13</Id>
+      <Mitgliedsname>Robb Stark</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2016-03-14</Datum>
+      <Ereignis>Der erste Drachenflug</Ereignis>
+      <Haus>Targaryen</Haus>
+      <Id>14</Id>
+      <Mitgliedsname>Daenerys Targaryen</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2016-05-25</Datum>
+      <Ereignis>Tod von Hodor</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>15</Id>
+      <Mitgliedsname>Hodor</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2012-05-28</Datum>
+      <Ereignis>Schlacht von Blackwater</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>16</Id>
+      <Mitgliedsname>Brienne von Tarth</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2013-10-14</Datum>
+      <Ereignis>Übernahme von Winterfell</Ereignis>
+      <Haus>Greyjoy</Haus>
+      <Id>17</Id>
+      <Mitgliedsname>Theon Greyjoy</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2016-04-10</Datum>
+      <Ereignis>Ermordung von Rickon Stark</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>18</Id>
+      <Mitgliedsname>Ramsay Bolton</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2016-05-09</Datum>
+      <Ereignis>Rückkehr von den Toten</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>19</Id>
+      <Mitgliedsname>Benjen Stark</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2017-08-20</Datum>
+      <Ereignis>Besuch von Eastwatch</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>20</Id>
+      <Mitgliedsname>Tormund Giantsbane</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2015-04-14</Datum>
+      <Ereignis>Erster Mord (Meryn Trant)</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>21</Id>
+      <Mitgliedsname>Arya Stark</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2013-06-07</Datum>
+      <Ereignis>Verschwörung gegen die Lannisters</Ereignis>
+      <Haus>Targaryen</Haus>
+      <Id>22</Id>
+      <Mitgliedsname>Varys</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2016-04-03</Datum>
+      <Ereignis>Der Beginn der Reise als Dreiäugiger Rabe</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>23</Id>
+      <Mitgliedsname>Bran Stark</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2012-05-28</Datum>
+      <Ereignis>Überleben der Schlacht von Blackwater</Ereignis>
+      <Haus>Lannister</Haus>
+      <Id>24</Id>
+      <Mitgliedsname>Podrick Payne</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2016-05-27</Datum>
+      <Ereignis>Zerstörung des Tempels von Baelor</Ereignis>
+      <Haus>Lannister</Haus>
+      <Id>25</Id>
+      <Mitgliedsname>Cersei Lannister</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2015-07-12</Datum>
+      <Ereignis>Zerstörung der Sklavenmärkte in Meereen</Ereignis>
+      <Haus>Targaryen</Haus>
+      <Id>26</Id>
+      <Mitgliedsname>Daenerys Targaryen</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2016-04-01</Datum>
+      <Ereignis>Rückkehr von den Toten</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>27</Id>
+      <Mitgliedsname>Jon Snow</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2016-06-26</Datum>
+      <Ereignis>Sieg in der Schlacht von Winterfell</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>28</Id>
+      <Mitgliedsname>Brienne von Tarth</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2017-07-21</Datum>
+      <Ereignis>Die Rückkehr nach Winterfell</Ereignis>
+      <Haus>Stark</Haus>
+      <Id>29</Id>
+      <Mitgliedsname>Arya Stark</Mitgliedsname>
+   </log>
+   <log>
+      <Datum>2013-11-03</Datum>
+      <Ereignis>Verlust von der rechten Hand</Ereignis>
+      <Haus>Lannister</Haus>
+      <Id>30</Id>
+      <Mitgliedsname>Jaime Lannister</Mitgliedsname>
+   </log>
+</logs>
